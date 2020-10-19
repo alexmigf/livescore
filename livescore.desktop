@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Livescore
-Exec=webapp-container --app-id="livescore.alexmigf" --webappUrlPatterns https://www.livescore.com/
+Exec=webapp-container --enable-back-forward --app-id="livescore.alexmigf" --webappUrlPatterns https://www.livescore.com/
 Icon=assets/logo.svg
 Terminal=false
 Type=Application
